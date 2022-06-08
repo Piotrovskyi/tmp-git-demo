@@ -1,1 +1,2 @@
 value = 10
+value2 = value + 2 = 12
